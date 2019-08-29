@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Learning Computer Science
+- The class is really relaxed
+- No tests
 
 1. Numbered
 2. List
